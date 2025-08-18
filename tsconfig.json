@@ -10,7 +10,8 @@
         "module": "nodenext",
         "moduleResolution": "nodenext",
         "rootDir": "src",
-        "outDir": "build"
+        "outDir": "build",
+        "resolveJsonModule": true,
     },
     "include": [
         "src"
